@@ -1,11 +1,11 @@
 <?php
 /*
  Plugin Name: BNL E-positivity WooCommerce Extension
-Plugin URI: http://developers.overplace.com
+Plugin URI: http://www.webglow.it
 Description: BNL E-Positivity gateway for WooCommerce.
 Version: 1.0.0
 Author: Francesco Marchesini
-Author URI: http://www.overplace.com
+Author URI: http://www.webglow.it
 */
 
 if(in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
